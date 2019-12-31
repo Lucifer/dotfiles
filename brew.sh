@@ -19,5 +19,17 @@ brew install tmux
 brew install php
 brew install gmp
 
+# Install every day casks
+brew cask install appzapper
+brew cask install charles
+brew cask install codekit
+brew cask install iterm2
+brew cask install ivpn
+brew cask install keybase
+brew cask install kindle 
+brew cask install launchbar
+brew cask install paw
+brew cask install tor-browser
+
 # Remove outdated versions from the cellar.
 brew cleanup
